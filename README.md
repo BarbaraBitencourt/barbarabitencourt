@@ -1,7 +1,7 @@
-### Olá! Eu sou Bárbara Bitencourt
+### Hi! I'm Bárbara Bitencourt
 
 
-- 🌱 Estudante de ciência de dados na Fatec Rubens Lara
+- 🌱 I'm data science student at Fatec Rubens Lara
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
